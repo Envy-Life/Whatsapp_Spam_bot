@@ -8,3 +8,5 @@ To use :
 2) Scan your whatsapp with whatsapp web.
 3) Enter name of group to spam in python terminal.
 4) Enjoy people getting irritated ( Totally worth the 3 steps believe me ).
+
+_Change irritation level by changing spam_number in spam.yml file to desired level_
