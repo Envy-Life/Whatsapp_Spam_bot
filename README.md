@@ -1,5 +1,5 @@
 # Whatsapp_Spam_bot
-*** Only for Lazy and/or irritating people like me ***
+**Only for Lazy and/or irritating people like me**
 
 This is a simple bot written using selenium in python. 
 
